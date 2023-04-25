@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/612901/01/master/profile-summary-card-output/transparent/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/612901/01/master/profile-summary-card-output/transparent/4-productive-time.svg)
-```
-
-    
